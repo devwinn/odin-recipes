@@ -1,7 +1,8 @@
-/* home.css 
+/* recipes.css 
 this is an example and introduction to external css*/
 
-.background {
+
+body {
     background-color: dimgray;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -18,6 +19,7 @@ div {
 img {
     height: auto;
     width: 325px;
+    
 }
 
 
