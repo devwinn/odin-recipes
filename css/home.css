@@ -1,0 +1,16 @@
+/* home.css 
+this is an example and introduction to external css*/
+
+
+.background {
+    background-color: dimgray;
+}
+
+
+
+div {
+    background-color:deepskyblue;
+    font-size: 30pt;
+    
+}
+
