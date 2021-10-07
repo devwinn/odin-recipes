@@ -2,22 +2,37 @@
 this is an example and introduction to external css*/
 
 .background {
+    
     background-color: dimgray;
     font-family: 'Times New Roman', Times, serif;
+    margin: 2px;
+    border: 2 px;
 }
 .title {
+    margin-top: 45px;
+    border: 10px solid white;
     font-size: 45px;
+    background-color: deepskyblue;
     color: seashell;
     text-align: center;
 }
 div {
-    background-color:deepskyblue;
+    margin-top: 100px;
+    border: 10px solid white;
+    background:deepskyblue;
     font-size: 30pt; 
     text-align: center;  
 }
 img {
+    
     height: auto;
     width: 325px;
 }
 
-
+button {
+    background-color: rgb(180, 178, 207);
+    padding: 15px;
+    margin: 25px;
+    font-size: 30px;
+    max-width: 300px;
+}

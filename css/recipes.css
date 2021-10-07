@@ -17,6 +17,9 @@ div {
     text-align: center;  
 }
 img {
+    
+    border: 15px solid white;
+    margin-bottom: 20px;
     height: auto;
     width: 325px;
     
